@@ -1,4 +1,5 @@
 # ☁️ Conception d'un Pipeline Data Engineering sur Azure avec Databricks et Power BI
+<img width="1280" height="545" alt="work flow Azure" src="https://github.com/user-attachments/assets/c14090c7-a463-4580-a68d-974991b10332" />
 
 ## 📝 Présentation du Projet
 Ce projet consiste à concevoir et implémenter une solution de **Data Engineering cloud de bout en bout** pour une entreprise du secteur retail. L'objectif est de moderniser son système décisionnel en mettant en place une architecture automatisée capable d'ingérer des sources de données hétérogènes, de les stocker, de les transformer via le moteur **Apache Spark (Databricks)** et de les restituer sous forme d'insights analytiques et orientés métier.
